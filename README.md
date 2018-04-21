@@ -1,5 +1,10 @@
 # bamazon
 
+THIS IS THE LINK TO WATCH THE APP IN ACTION. HOPE YOU ENJOY!!
+https://drive.google.com/open?id=171pUXLQ3kT6v1bUpRbaGpgGzgZJQLFEq
+
+
+THE FOLLOWING ARE THE STEPS I MADE TO COMPLETE MY APP
 
    First I created a MySQL Database called bamazon.
 
@@ -29,3 +34,5 @@
     However, if the store does have enough of the product, the customer order will be fulfilled.
         This means updating the SQL database to reflect the remaining quantity.
         Once the update goes through, the customer will see the total cost of their purchase.
+
+
