@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This is an Amazon-like store front that uses mySQL to take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chitica/bamazon.git"
+  },
+  "author": "Liseth Chitica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chitica/bamazon/issues"
+  },
+  "homepage": "https://github.com/Chitica/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
